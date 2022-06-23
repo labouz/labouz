@@ -1,4 +1,4 @@
-
+![](https://github.com/labouz/labouz/blob/main/banner.png)
 ### Hi there, I'm Layla! 👋🏼
 
 - 💃🏻 I'm a doctoral student, Philadelphia transplant by way of Miami & Atlanta, mom to two 🐈 , and an overzelous organizer of anything. If I'm not working, you can find me reading in my happy place, usually with a glass of wine in hand, or letting shit go thru some form of physical activity 🧘🏻‍♀️ 🏃🏻‍♀️ 🥊 . 
