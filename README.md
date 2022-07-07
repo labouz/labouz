@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on drug euphamism detection and extraction from online forums.
 - 🌱 I’m currently learning NLP with Deep Learning while sharpening my python skills.
 - 👯 I’m looking to collaborate on building out my [DOPE](https://github.com/CTN-0094/DOPE) R package.
-- 🤔 I’m looking for help with..._see first point_ 😅 & finding life outside of my phd 🫠
+- 🤔 I’m looking for help with..._see second point_ 😅 & finding life outside of my phd 🫠
 - 💬 Ask me about ... 🍷 🐈 🤷🏻‍♀️
 - 📫 How to reach me: [@bouzoulay](https://twitter.com/bouzoulay)
 - 😄 Pronouns: she/her
