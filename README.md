@@ -2,7 +2,7 @@
 ### Hi there, I'm Layla! 👋🏼
 
 - 💃🏻 I'm a doctoral student, Philadelphia transplant by way of Miami & Atlanta, mom to two 🐈 , and an overzelous organizer of anything. If I'm not working, you can find me reading in my happy place, usually with a glass of wine in hand, or letting shit go thru some form of physical activity 🧘🏻‍♀️ 🏃🏻‍♀️ 🥊 . 
-- 🔭 I’m currently working on drug euphamism detection and extraction from online forums.
+- 🔭 I’m currently working on understanding the language of illicit drug use from social forums.
 - 🌱 I’m currently learning NLP with Deep Learning while sharpening my python skills.
 - 👯 I’m looking to collaborate on building out my [DOPE](https://github.com/CTN-0094/DOPE) R package.
 - 🤔 I’m looking for help with..._see second point_ 😅 & finding life outside of my phd 🫠
@@ -24,8 +24,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras.png" alt="Keras" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
 
